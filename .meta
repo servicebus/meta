@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "core": "git@github.com:servicebus/core.git",
+    "middleware/package": "git@github.com:servicebus/package.git",
+    "middleware/logger": "git@github.com:servicebus/logger.git",
+    "middleware/message-domain": "git@github.com:servicebus/message-domain.git",
+    "middleware/correlate": "git@github.com:servicebus/correlate.git"
+  }
+}
