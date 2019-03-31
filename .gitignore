@@ -1,4 +1,3 @@
-core
 middleware/package
 middleware/logger
 middleware/message-domain
@@ -7,3 +6,7 @@ middleware/json
 formatters/json
 busses/kafkabus
 busses/rabbitbus
+middleware/retry
+middleware/trace
+modules/register-handlers
+modules/core

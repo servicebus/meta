@@ -1,6 +1,5 @@
 {
   "projects": {
-    "core": "git@github.com:servicebus/core.git",
     "middleware/package": "git@github.com:servicebus/package.git",
     "middleware/logger": "git@github.com:servicebus/logger.git",
     "middleware/message-domain": "git@github.com:servicebus/message-domain.git",
@@ -8,6 +7,10 @@
     "middleware/json": "git@github.com:servicebus/json.git",
     "formatters/json": "git@github.com:servicebus/json-formatter.git",
     "busses/kafkabus": "git@github.com:servicebus/kafkabus.git",
-    "busses/rabbitbus": "git@github.com:servicebus/rabbitbus.git"
+    "busses/rabbitbus": "git@github.com:servicebus/rabbitbus.git",
+    "middleware/retry": "git@github.com:servicebus/retry.git",
+    "middleware/trace": "git@github.com:servicebus/trace.git",
+    "modules/register-handlers": "git@github.com:servicebus/register-handlers.git",
+    "modules/core": "git@github.com:servicebus/core.git"
   }
 }
