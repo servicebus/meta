@@ -11,3 +11,9 @@ middleware/retry
 middleware/trace
 modules/register-handlers
 modules/core
+/templates/rabbitbus-api-template/
+/templates/rabbitbus-model-service-template/
+/templates/kafkabus-model-service-template/
+/modules/express-middleware/
+/modules/kafkabus-common/
+/modules/rabbitbus-common/

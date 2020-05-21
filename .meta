@@ -11,6 +11,12 @@
     "middleware/retry": "git@github.com:servicebus/retry.git",
     "middleware/trace": "git@github.com:servicebus/trace.git",
     "modules/register-handlers": "git@github.com:servicebus/register-handlers.git",
-    "modules/core": "git@github.com:servicebus/core.git"
+    "modules/core": "git@github.com:servicebus/core.git",
+    "templates/rabbitbus-api-template": "git@github.com:servicebus/rabbitbus-api-template.git",
+    "templates/rabbitbus-model-service-template": "git@github.com:servicebus/rabbitbus-model-service-template.git",
+    "templates/kafkabus-model-service-template": "git@github.com:servicebus/kafkabus-model-service-template.git",
+    "modules/express-middleware": "git@github.com:servicebus/express-middleware.git",
+    "modules/kafkabus-common": "git@github.com:servicebus/kafkabus-common.git",
+    "modules/rabbitbus-common": "git@github.com:servicebus/rabbitbus-common.git"
   }
 }
