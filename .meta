@@ -17,6 +17,7 @@
     "templates/kafkabus-model-service-template": "git@github.com:servicebus/kafkabus-model-service-template.git",
     "modules/express-middleware": "git@github.com:servicebus/express-middleware.git",
     "modules/kafkabus-common": "git@github.com:servicebus/kafkabus-common.git",
-    "modules/rabbitbus-common": "git@github.com:servicebus/rabbitbus-common.git"
+    "modules/rabbitbus-common": "git@github.com:servicebus/rabbitbus-common.git",
+    "modules/express": "git@github.com:servicebus/express.git"
   }
 }

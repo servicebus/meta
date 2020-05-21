@@ -17,3 +17,4 @@ modules/core
 /modules/express-middleware/
 /modules/kafkabus-common/
 /modules/rabbitbus-common/
+/modules/express/
