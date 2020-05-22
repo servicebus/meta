@@ -18,6 +18,7 @@
     "modules/express-middleware": "git@github.com:servicebus/express-middleware.git",
     "modules/kafkabus-common": "git@github.com:servicebus/kafkabus-common.git",
     "modules/rabbitbus-common": "git@github.com:servicebus/rabbitbus-common.git",
-    "modules/express": "git@github.com:servicebus/express.git"
+    "modules/express": "git@github.com:servicebus/express.git",
+    "modules/errortrap": "git@github.com:servicebus/errortrap.git"
   }
 }

@@ -18,3 +18,4 @@ modules/core
 /modules/kafkabus-common/
 /modules/rabbitbus-common/
 /modules/express/
+/modules/errortrap/
